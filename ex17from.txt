@@ -1,1 +1,4 @@
 This is text that came from the from file.
+
+get bpython
+look up __name__ == '__main__'
